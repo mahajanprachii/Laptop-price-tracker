@@ -13,7 +13,7 @@ This is the first stage: getting real, live data off Flipkart to work with.
 ### ✨ What I Built
 
 - A scraper that pulls laptop listings from Flipkart's search/category pages
-- It extracts: **[list your actual columns — e.g. brand, model, price, RAM, processor, storage, rating]**
+- It extracts: Name, Price, Rating, Reviews, Image_URL, Product_Link, Specifications
 - Handles pagination so I could collect data across multiple pages, not just one
 - Outputs everything into a clean CSV, ready for the next stage (SQL)
 - I used Selenium specifically because Flipkart's listings are loaded dynamically via JavaScript — a simple requests/BeautifulSoup approach wouldn't have worked here
@@ -34,15 +34,6 @@ Here's what happens when I run the scraper:
 3. For each listing, it extracts price, specs, and product details
 4. It loops through pagination to scale up the dataset instead of stopping at page 1
 5. Finally, it cleans and saves everything into `laptops.csv`
-
-### 📁 Dataset Fields
-
-
-### 📊 Sample Output
-
-| Brand | Model | Price | RAM | Processor | Rating |
-|-------|-------|-------|-----|-----------|--------|
-| *fill in a few real rows from your CSV here* | | | | | |
 
 
 ### ⚠️ Scope & Limitations
