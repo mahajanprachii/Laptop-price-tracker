@@ -20,10 +20,10 @@ This is the first stage: getting real, live data off Flipkart to work with.
 
 ### 🛠️ Tech Stack
 
-- Language:** Python
-- Scraping:** Selenium WebDriver
-- Data handling:** Pandas
-- Output format:** CSV
+- Language: Python
+- Scraping: Selenium WebDriver
+- Data handling: Pandas
+- Output format: CSV
 
 ### ⚙️ How It Works
 
@@ -47,7 +47,7 @@ Here's what happens when I run the scraper:
 
 ### ⚠️ Scope & Limitations
 
-Worth being upfront about this: my dataset covers laptops returned by searching the generic term **"laptop"** on Flipkart — roughly **500 listings**. This is *not* Flipkart's full laptop catalog.
+My dataset covers laptops returned by searching the generic term **"laptop"** on Flipkart — roughly **500 listings**. This is *not* Flipkart's full laptop catalog.
 
 Flipkart's search results are query-dependent — searching a specific brand (e.g. "ASUS", "Samsung") or model surfaces additional listings that don't show up under a generic "laptop" search. Flipkart's total laptop inventory across all such queries likely runs into a few thousand listings.
 
