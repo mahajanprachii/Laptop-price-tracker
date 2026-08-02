@@ -53,6 +53,6 @@ Tool used: MySQL Workbench
 3. Used TRIM() to clean up extra whitespace that was left over from scraping.
 4. Went column by column to validate that values actually matched what the column claimed to hold, setting anything unmatched or missing to NULL instead of   leaving bad data in place
 
-<img width="1280" height="832" alt="Screenshot 2026-08-01 at 1 06 27 PM" src="https://github.com/user-attachments/assets/9667ad12-89c6-45ab-8020-6d66e7f21d93" />
+<img width="250" height="250" alt="Screenshot 2026-08-01 at 1 06 27 PM" src="https://github.com/user-attachments/assets/9667ad12-89c6-45ab-8020-6d66e7f21d93" />
 
 
