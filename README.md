@@ -1,6 +1,6 @@
 # 💻 Flipkart Laptop Price Analysis (End-to-End)
 
-An end-to-end data project that scrapes, stores, analyzes, and (eventually) predicts laptop prices using live Flipkart listings — combining web scraping, SQL, Power BI, and Machine Learning into one pipeline.
+An end-to-end data project that scrapes, stores, analyzes, and (eventually) predicts laptop prices using live Flipkart listings — combining web scraping, SQL, and Power BI in one pipeline.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
