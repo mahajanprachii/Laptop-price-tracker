@@ -41,7 +41,7 @@ My dataset covers laptops returned by searching the generic term **"laptop"** on
 Flipkart's search results are query-dependent — searching a specific brand (e.g. "ASUS", "Samsung") or model surfaces additional listings that don't show up under a generic "laptop" search. Flipkart's total laptop inventory across all such queries likely runs into a few thousand listings.
 
 
-##Part 2: Data Cleaning with SQL
+## Part 2: Data Cleaning with SQL
 
 🛠️ Tech Stack
 Database: MySQL
