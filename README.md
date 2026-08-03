@@ -53,6 +53,17 @@ Tool used: MySQL Workbench
 3. Used TRIM() to clean up extra whitespace that was left over from scraping.
 4. Went column by column to validate that values actually matched what the column claimed to hold, setting anything unmatched or missing to NULL instead of   leaving bad data in place
 
+## 📊 Exploratory Data Analysis (SQL)
+
+During the analysis, I observed that:
+- HP has the highest number of laptop listings in the dataset, followed by Samsung and ASUS.
+- Most laptops fall within the Mid-range (₹40K–₹80K) price segment.
+- Samsung has the highest average customer rating among major brands.
+- 512 GB SSD is the most commonly available storage option.
+- Laptop prices generally increase as storage capacity increases.
+- The same processor is offered by multiple brands but at different price points.
+- Windows 11 is the most widely used operating system across laptop brands.
+- Some brands provide better value for money based on their Rating-to-Price ratio.
 
 
 
