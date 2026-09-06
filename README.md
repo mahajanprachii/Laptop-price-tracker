@@ -65,5 +65,37 @@ During the analysis, I observed that:
 - Windows 11 is the most widely used operating system across laptop brands.
 - Some brands provide better value for money based on their Rating-to-Price ratio.
 
+  ## Part 3: Data Visualization with Power BI
+
+🛠️ Tech Stack  
+Tool used: Power BI Desktop
+
+✨ What I Did
+
+1. Imported the cleaned laptop dataset into Power BI.
+2. Created KPI cards to display key metrics such as:
+   - Total Laptops
+   - Average Price
+   - Average Rating
+   - Total Reviews
+3. Built interactive bar charts to analyze:
+   - Average laptop price by RAM
+   - Average laptop price by Processor
+4. Added slicers for **Storage, RAM, and Processor** so the dashboard can be filtered dynamically.
+5. Designed the dashboard to provide a quick overview of the laptop market and make comparisons between different specifications easier.
+
+📊 Dashboard Insights
+
+The Power BI dashboard provides an interactive view of the dataset, allowing users to explore how laptop prices vary across different hardware configurations.
+
+Users can filter the dashboard based on **Storage, RAM, and Processor** to see how these specifications affect the average price.
+
+### 📈 Key Metrics
+
+- **Total Laptops:** 443
+- **Average Price:** ₹74.55K
+- **Average Rating:** 4
+- **Total Reviews:** 1M+
+
 
 
