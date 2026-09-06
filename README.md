@@ -52,7 +52,7 @@ Tool used: MySQL Workbench
 2. Added an auto-increment primary key — gave every row a unique ID.
 3. Used TRIM() to clean up extra whitespace that was left over from scraping.
 4. Went column by column to validate that values actually matched what the column claimed to hold, setting anything unmatched or missing to NULL instead of   leaving bad data in place
-
+   
 ## 📊 Exploratory Data Analysis (SQL)
 
 During the analysis, I observed that:
@@ -65,7 +65,7 @@ During the analysis, I observed that:
 - Windows 11 is the most widely used operating system across laptop brands.
 - Some brands provide better value for money based on their Rating-to-Price ratio.
 
-  ## Part 3: Data Visualization with Power BI
+## Part 3: Data Visualization with Power BI
 
 🛠️ Tech Stack  
 Tool used: Power BI Desktop
@@ -90,12 +90,25 @@ The Power BI dashboard provides an interactive view of the dataset, allowing use
 
 Users can filter the dashboard based on **Storage, RAM, and Processor** to see how these specifications affect the average price.
 
-### 📈 Key Metrics
+<table>
+<tr>
+<td width="35%" valign="top">
+
+## 📈 Key Metrics
 
 - **Total Laptops:** 443
 - **Average Price:** ₹74.55K
 - **Average Rating:** 4
 - **Total Reviews:** 1M+
 
+</td>
+
+<td width="65%" valign="top">
+
+<img src="Laptop-analysis-report.jpeg" alt="Laptop Price Analysis Dashboard" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 
