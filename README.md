@@ -4,7 +4,7 @@ An end-to-end data project that scrapes, stores, analyzes, and (eventually) pred
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## Part 1: Web Scraping
 
